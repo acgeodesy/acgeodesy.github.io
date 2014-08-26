@@ -3,7 +3,7 @@ layout: default
 title: 全球70亿人参与冰桶挑战需要花多长时间？数学模型来解决
 ---
 ##{{ page.title }}
-{{ page.date | date_to_string }}
+{{ page.date | date_to_long_string }}
 
 在国外社交网络上风靡的“冰桶挑战”，挑战者需要将一桶冰水倒在自己头上。如果被提名者不愿意接受挑战，则需向美国肌萎缩性脊髓侧索硬化症协会(ALS Association)捐款。 被提名者需要在24小时之内完成挑战或捐款。挑战者要提名三个人继续参加冰桶挑战。
 

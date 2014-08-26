@@ -3,7 +3,7 @@ layout: default
 title: 我常使用的Linux软件
 ---
 ##{{ page.title }}
-{{ page.date | date_to_string }}
+{{ page.date | date_to_long_string }}
 
 我常使用的Linux软件：
 
