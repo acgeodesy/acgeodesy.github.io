@@ -1,0 +1,22 @@
+---
+title: SiteMap
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+	<channel>
+		<title>Acheng&apos;s Blog</title>
+		<atom:link href="http://ac.geodesy.cn/sitemap.xml" rel="self" type="application/rss+xml" />
+		<link>http://ac.geodesy.cn</link>
+		<description>
+			<language>zh-CN</language>
+			<sy:updatePeriod>hourly</sy:updatePeriod>
+			<sy:updateFrequency>1</sy:updateFrequency>
+			<generator>http://github.com</generator>
+		</description>{% for post in site.posts %}
+		<item>
+			<title>{{ post.title }}</title>
+			<link>http://ac.geodesy.cn{{ site.baseurl }}{{ post.url }}</link>
+			<pubDate>{{ page.date | date_to_long_string }}</pubDate>
+		</item>{% endfor %}
+	</channel>
+</rss>
