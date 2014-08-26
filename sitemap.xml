@@ -16,7 +16,7 @@ title: SiteMap
 		<item>
 			<title>{{ post.title }}</title>
 			<link>http://ac.geodesy.cn{{ site.baseurl }}{{ post.url }}</link>
-			<pubDate>{{ page.date | date_to_long_string }}</pubDate>
+			<pubDate>{{ page.date | date_to_string }}</pubDate>
 		</item>{% endfor %}
 	</channel>
 </rss>
