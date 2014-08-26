@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 规避河蟹，科学上网，翻越Great Fire Wall的利器——红杏11
+title: 规避河蟹，科学上网，翻越Great Fire Wall的利器——红杏
 ---
 ##{{ page.title }}
 {{ page.date | date_to_long_string }}
