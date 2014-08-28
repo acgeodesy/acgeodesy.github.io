@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 观互联网直播约架罗永浩对战王自如，罗永浩完败王自如？
+title: 互联网直播约架：罗永浩对战王自如，罗永浩完败王自如？
 ---
 ##{{ page.title }}
 {{ page.date | date_to_long_string }}
