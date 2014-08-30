@@ -5,6 +5,6 @@ title: Acheng's Blog
 <h2>文章列表</h2>
 <div id="post">
 	{% for post in site.posts %}
-	<p><a class="animsition-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="post_date">{{ post.date | date_to_string }}</span></p>
+	<p><a class="animsition-link" data-animsition-out="fade-out-up" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="post_date">{{ post.date | date_to_string }}</span></p>
 	{% endfor %}
 </div>
