@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 ##{{ page.title }}
-<div id="acheng">
+
 **Address**: Room 410, College of Surveying and Geo-Informatics, Tongji University, 1239 Siping Road, Shanghai, China 200092   
 **E-mail**: ac@geodesy.cn   
 **Phone**: +86 13816176831
@@ -20,4 +20,3 @@ I received B.S. and M.S. in Geodesy and Survey Engineering from Chang’an Unive
 
 **B.S. in Geomatics**, School of Geology Engineering and Geomatics, Chang’an University, Sep. 2003~Jul. 2007
 
-</div>
