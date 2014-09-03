@@ -4,6 +4,7 @@ title: 我常使用的Linux软件
 
 ---
 ##{{ page.title }}
+{% include post_date.html %}
 
 我常使用的Linux软件：
 
@@ -39,6 +40,5 @@ title: 我常使用的Linux软件
 
 更多软件推荐详见：<http://app.geodesy.cn>
 
-{% include post_date.html %}
 
 
