@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 我常使用的Linux软件
+
 ---
 ##{{ page.title }}
-{{ page.date | date: "%F %T" }}
+{% include post_date.html %}
 
 我常使用的Linux软件：
 
