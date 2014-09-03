@@ -4,7 +4,6 @@ title: 我常使用的Linux软件
 
 ---
 ##{{ page.title }}
-{% include post_date.html %}
 
 我常使用的Linux软件：
 
@@ -39,4 +38,7 @@ title: 我常使用的Linux软件
 [DeaDBeeF](http://deadbeef.sourceforge.net)  轻量级的一款音乐播放软件，和Windows上的foobar比较像，还不错 
 
 更多软件推荐详见：<http://app.geodesy.cn>
+
+{% include post_date.html %}
+
 
