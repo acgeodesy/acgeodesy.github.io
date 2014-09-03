@@ -3,7 +3,7 @@ layout: default
 title: 我常使用的Linux软件
 ---
 ##{{ page.title }}
-{{ page.date | date_to_long_string }}
+{{ page.date | date: "%F %T" }}
 
 我常使用的Linux软件：
 
@@ -19,7 +19,7 @@ title: 我常使用的Linux软件
 
 [Filezilla](https://filezilla-project.org)　跨平台的FTP软件，支持Linux/Mac OS/Windows三大主流操作系统，并且有着非常一致的良好的用户体验
 
-[Google Chrome](http://www.google.com/chrome)</a>　跨平台的网页浏览器，有较多的扩展应用，使用体验极佳，Linux下也尽量使用Chrome Browser，因为开源的Chromium Browser十分容易卡死; 如有河蟹出现访问不了的情况，可直接`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`下载，然后`sudo dpkg -i google-chrome*; sudo apt-get -f install`进行安装即可
+[Google Chrome](http://www.google.com/chrome)　跨平台的网页浏览器，有较多的扩展应用，使用体验极佳，Linux下也尽量使用Chrome Browser，因为开源的Chromium Browser十分容易卡死; 如有河蟹出现访问不了的情况，可直接`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`下载，然后`sudo dpkg -i google-chrome*; sudo apt-get -f install`进行安装即可
 
 [Thunderbird](https://www.mozilla.org/thunderbird)　跨平台的邮件客户端软件，支持Linux/Mac OS/Windows三大主流操作系统，并且有着非常一致的良好的用户体验，foxmail账户在发送邮件后会一直卡在邮件保存到发件箱，实际已保存了
 
