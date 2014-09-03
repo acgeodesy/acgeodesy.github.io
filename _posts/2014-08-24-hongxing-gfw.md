@@ -3,7 +3,7 @@ layout: default
 title: 规避河蟹，科学上网，翻越Great Fire Wall的利器——红杏
 ---
 ##{{ page.title }}
-{{ page.date | date_to_long_string }}
+{% include post_date.html %}
 
 红杏，一个超给力的Chrome浏览器翻墙插件，简单易用还跨平台，详细介绍如下：
 

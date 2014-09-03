@@ -3,7 +3,7 @@ layout: default
 title: 互联网直播约架：罗永浩对战王自如，罗永浩完败王自如？
 ---
 ##{{ page.title }}
-{{ page.date | date_to_long_string }}
+{% include post_date.html %}
 
 曾经的一对好基友罗永浩王自如突然之间就走向对立，并且在优酷上直播了辩论过程。起因在于王自如对罗永浩的犊子——锤子手机的测评里面包含了一些老罗不认可的观点甚至还有故意黑锤子的点比如红屏现象。
 

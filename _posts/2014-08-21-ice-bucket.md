@@ -3,7 +3,7 @@ layout: default
 title: 全球70亿人参与冰桶挑战需要花多长时间？数学模型来解决
 ---
 ##{{ page.title }}
-{{ page.date | date_to_long_string }}
+{% include post_date.html %}
 
 ![ice bucket challenge](/resource/ice-bucket.jpg)
 
