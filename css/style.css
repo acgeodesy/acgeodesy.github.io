@@ -16,5 +16,6 @@ pre,blockquote{border-left:#ddd 10px solid;background:#e6e6e6;padding:10px;margi
 .ds-powered-by,.ds-dialog-footer{display:none;}
 .ds-textarea-wrapper textarea{height:120px!important;font-size:18px!important;}
 .ds-comment-body p{font-size: 18px!important;}
-#navigation {border-bottom:#ddd 1px solid;}
-#navigation a{font-weight:bold;font-size:30px;margin:8px;padding:8px;}
+#navigation{height:35px;line-height:35px;background:#333;}
+#navigation a{font-weight:bold;font-size:26px;margin:8px;padding:8px;color:#eee;}
+#navigation a:hover{color:green}
