@@ -2,5 +2,5 @@
 title: Acheng's Blog
 ---
 
-{% for post in site.posts %}http://ac.geodesy.cn{{ site.baseurl }}{{ post.url }}
+{% for post in site.posts %}{{site.url}}{{ post.url }}
 {% endfor %}
