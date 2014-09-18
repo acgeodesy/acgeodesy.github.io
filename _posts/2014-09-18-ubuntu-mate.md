@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ubuntu MATE上线,依旧骚黄,MATE妥协?经典得不彻底
+title: Ubuntu MATE上线,依旧骚黄,MATE妥协? 经典得不彻底
 ---
 ##{{ page.title }}
 {% include post_date.html %}
