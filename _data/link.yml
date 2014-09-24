@@ -1,9 +1,9 @@
-- name: GhostZhang
+- name: 鬼哥
   url: http://www.cssforest.org
-  desc: 鬼哥，低调的挨踢大叔
-- name: Twinsen
+  desc: 低调的挨踢技术控
+- name: 彪书
   url: http://www.twinsenliang.net
-  desc: 彪书，脖子上有纹身的挨踢大叔
+  desc: 脖子上有纹身的挨踢重构佬
 - name: Fortran Coder
   url: http://fcode.cn
   desc: Fortran程序员聚集地，站长是个老好人
@@ -13,3 +13,18 @@
 - name: 未来大叔
   url: http://weilaixu.cn
   desc: 写一手好字的挨踢从业者兼艺术大师
+- name: Robin
+  url: http://rlog.cn
+  desc: 低调的肉饼，陕西滴娃
+- name: Tension
+  url: http://tension.name
+  desc: 身兼数职的大老板，苹果把玩得溜很
+- name: 米随随
+  url: http://s5s5.me
+  desc: 瞧着域名，嘚瑟的挨踢小胖
+- name: 丸子
+  url: http://www.wanz.im
+  desc: 一把年纪还装可爱卖萌的挨踢仔
+- name: 大白
+  url: http://www.dabaii.com
+  desc: 很纯洁的一个大男孩...
