@@ -1,6 +1,15 @@
 - name: GhostZhang
   url: http://www.cssforest.org
-  desc: 鬼哥
+  desc: 鬼哥，低调的挨踢大叔
 - name: Twinsen
   url: http://www.twinsenliang.net
-  desc: 彪书
+  desc: 彪书，脖子上有纹身的挨踢大叔
+- name: Fortran Coder
+  url: http://fcode.cn
+  desc: Fortran程序员聚集地，站长是个老好人
+- name: 飘飘
+  url: http://pufen.net
+  desc: 谭拔丝，啥都懂，做一手好菜，兴趣很广泛
+- name: 未来大叔
+  url: http://weilaixu.cn
+  desc: 写一手好字的挨踢从业者兼艺术大师
