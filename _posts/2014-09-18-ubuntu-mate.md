@@ -20,7 +20,7 @@ Ubuntu MATE上线了~ <https://ubuntu-mate.org/>
 ![ac mate](/resource/acheng-mate.png)
 
 在Ubuntu14.04上安装MATE，步骤如下：
-<script src="https://gist.github.com/acgeodesy/8c6e40f432ba3334e22c.js"></script>
+{% gist acgeodesy/8c6e40f432ba3334e22c %}
 
 MATE官方还给出了其他发行版本安装MATE的详细步骤，十分贴心。
 
