@@ -34,13 +34,14 @@ I started learning C++ in 2007 when I studied for a Master’s degree. More than
 GLONASS Frequency Channels: <https://github.com/acgeodesy/glo.git>
 
 ##Patent
-**Cheng Wang**, Jiexian Wang, Bingbing Duan, Lizhen Lian. Ionosphere TEC active broadcasting based on location and its system [accepted & published, application number: 201310488613. X]
+**Cheng Wang**, Jiexian Wang, Bingbing Duan, Lizhen Lian. Ionosphere TEC active broadcasting based on location and its system [accepted & published, application number: 201310488613.X, publication number: 103558607A]
 
 ##Online services
 - DOY online: <http://geodesy.cn/doy>
 - Ionosphere TEC Broadcasting Platform: <http://iris.geodesy.cn/index.html>
 - GLONASS Frequency Channels Service: <http://geodesy.cn/glonass/index.xml>
 - Global Ionospheric Model and Service Platform: <http://geodesy.cn/ionosphere>
+- SmartPPP,Precise Point Positioning online Service: <http://ppp.geodesy.cn>
 
 ##Video
 Global Ionospheric Model and Service Platform: [@Youku](http://v.youku.com/v_show/id_XNzM1MzYzODYw.html)  [@QQvideo](http://v.qq.com/boke/page/u/0/a/u0131yunvla.html)
@@ -69,14 +70,14 @@ Global Ionospheric Model and Service Platform: [@Youku](http://v.youku.com/v_sho
 
 ##Journal Papers
 - **C. Wang**, J. Wang, B. Duan, Global ionospheric model with international reference ionosphere constraint, Geomatics and Information Science of Wuhan University (in Chinese), *in press*
-- B. Duan, J. Wang, **C. Wang**, High-precision prediction of ships including speed and orientation, Geomatics and Information Science of Wuhan University (in Chinese), *in press*
-- B. Duan, J. Wang, **C. Wang**, Algebraic Solution of GPS Equations Based on HouseHold Transformation, Journal of Tongji University (natural science) (in Chinese), 42(7):1123-11126, 2014 [*EI*]
+- Bingbing Duan, J. Wang, **C. Wang**, High-precision prediction of ships including speed and orientation, Geomatics and Information Science of Wuhan University (in Chinese), *in press*
+- Bingbing Duan, J. Wang, **C. Wang**, Algebraic Solution of GPS Equations Based on HouseHold Transformation, Journal of Tongji University (natural science) (in Chinese), 42(7):1123-11126, 2014 [*EI*]
 - Wang H, **Wang C**, Wang J X, et al. Global characteristics of the second-order ionospheric delay error using inversion of electron density profiles from COSMIC occultation data. Sci China-Phys Mech Astron, 2014, 57: 365-374, doi: 10.1007/s11433-013-5376-y [*SCI*]
 - **C. Wang**, J. Wang, Assessment of global ionospheric maps and international reference ionosphere over China, Journal of Geodesy and Geodynamics (in Chinese), 33(3):125-128, 2013
 - **C. Wang**, J. Wang, Cycle slip detection and correction of single-frequency un-differenced phase observation, Journal of Tongji University (natural science) (in Chinese), 40(9):1393-1398, 2012 [*EI*]
 - **C. Wang**, J. Wang, L. He, Real time cycle slip detection based on Jarque-Bera test using bi-differences of code and phase, Geomatics and Information Science of Wuhan University (in Chinese), 37(6):693-696, 2012 [*EI*]
 - **C. Wang**, J. Wang, International reference ionosphere and its application in features analysis of ionosphere electron density, Journal of Geodesy and Geodynamics (in Chinese), 32(2):55-59, 2012
-- L. He, J. Wang, S. Song, W. Zhu, **C. Wang**, On construction of STRF based on SLR time series and transformation relationship between STRF and ITRF2008, Journal of Geodesy and Geodynamics (in Chinese), 31(6):104-108, 2011
+- Lina He, J. Wang, S. Song, W. Zhu, **C. Wang**, On construction of STRF based on SLR time series and transformation relationship between STRF and ITRF2008, Journal of Geodesy and Geodynamics (in Chinese), 31(6):104-108, 2011
 - **C. Wang**, J. Yang, G. Jiang, Application of regular expression in geodesy data processing, Science of Surveying and Mapping (in Chinese), 36(2):208-209, 2011
 
 ##Conference Papers
@@ -101,4 +102,4 @@ Global Ionospheric Model and Service Platform: [@Youku](http://v.youku.com/v_sho
 - 2011 China Satellite Navigation Conference, Shanghai, May 18~20, 2011
 - Training on Application and Development of CORS (Continuously Operating Reference Station), GNSS Research Center of Wuhan University, Dec., 2010
 
-*last modified@2014-08-14*
+*last modified@2014-10-10*
