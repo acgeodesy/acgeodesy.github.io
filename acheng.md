@@ -71,19 +71,20 @@ Global Ionospheric Model and Service Platform: [@Youku](http://v.youku.com/v_sho
 ##Journal Papers
 - **C. Wang**, J. Wang, B. Duan, Global ionospheric model with international reference ionosphere constraint, Geomatics and Information Science of Wuhan University (in Chinese), *in press*
 - Bingbing Duan, J. Wang, **C. Wang**, High-precision prediction of ships including speed and orientation, Geomatics and Information Science of Wuhan University (in Chinese), *in press*
-- Bingbing Duan, J. Wang, **C. Wang**, Algebraic Solution of GPS Equations Based on HouseHold Transformation, Journal of Tongji University (natural science) (in Chinese), 42(7):1123-11126, 2014 [*EI*]
-- Wang H, **Wang C**, Wang J X, et al. Global characteristics of the second-order ionospheric delay error using inversion of electron density profiles from COSMIC occultation data. Sci China-Phys Mech Astron, 2014, 57: 365-374, doi: 10.1007/s11433-013-5376-y [*SCI*]
+- Zhiqiang Liu, J. Wang, Haojun Li, **C. Wang**, Least squares support vector regression model optimized by genetic algorithm for navigation saatellite clock error prediction, Journal of Geomatics Science and Technology (in Chinese), (3):, 2014
+- Bingbing Duan, J. Wang, **C. Wang**, Algebraic solution of GPS equations based on HouseHold transformation, Journal of Tongji University (natural science) (in Chinese), 42(7):1123-11126, 2014 [*EI:20142917947326*]
+- Wang H, **Wang C**, Wang J X, et al. Global characteristics of the second-order ionospheric delay error using inversion of electron density profiles from COSMIC occultation data. Sci China-Phys Mech Astron, 2014, 57: 365-374, doi: 10.1007/s11433-013-5376-y [*SCI:WOS:000329997700021*]
 - **C. Wang**, J. Wang, Assessment of global ionospheric maps and international reference ionosphere over China, Journal of Geodesy and Geodynamics (in Chinese), 33(3):125-128, 2013
-- **C. Wang**, J. Wang, Cycle slip detection and correction of single-frequency un-differenced phase observation, Journal of Tongji University (natural science) (in Chinese), 40(9):1393-1398, 2012 [*EI*]
-- **C. Wang**, J. Wang, L. He, Real time cycle slip detection based on Jarque-Bera test using bi-differences of code and phase, Geomatics and Information Science of Wuhan University (in Chinese), 37(6):693-696, 2012 [*EI*]
+- **C. Wang**, J. Wang, Cycle slip detection and correction of single-frequency un-differenced phase observation, Journal of Tongji University (natural science) (in Chinese), 40(9):1393-1398, 2012 [*EI:20124615671430*]
+- **C. Wang**, J. Wang, L. He, Real time cycle slip detection based on Jarque-Bera test using bi-differences of code and phase, Geomatics and Information Science of Wuhan University (in Chinese), 37(6):693-696, 2012 [*EI:20122715215544*]
 - **C. Wang**, J. Wang, International reference ionosphere and its application in features analysis of ionosphere electron density, Journal of Geodesy and Geodynamics (in Chinese), 32(2):55-59, 2012
 - Lina He, J. Wang, S. Song, W. Zhu, **C. Wang**, On construction of STRF based on SLR time series and transformation relationship between STRF and ITRF2008, Journal of Geodesy and Geodynamics (in Chinese), 31(6):104-108, 2011
 - **C. Wang**, J. Yang, G. Jiang, Application of regular expression in geodesy data processing, Science of Surveying and Mapping (in Chinese), 36(2):208-209, 2011
 
 ##Conference Papers
 - **C. Wang**, An automatic data processing system for global ionospheric model and service platform, Academic Forum for Chinese Doctoral Candidates (Surveying and Mapping), May, 2014
-- **C. Wang**, J. Wang, Y. Morton, Regional ionospheric TEC gradients estimation using a single GNSS receiver, China Satellite Navigation Conference (CSNC) 2014 Proceedings: Volume II Lecture Notes in Electrical Engineering Volume 304, 2014, pp 363-373 [*EI*]
-- **Wang, C.**, Morton, Y., "Ionosphere TEC and TEC Gradients Estimation Using a Regional GNSS Network," Proceedings of the 26th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2013), Nashville, TN, September 2013, pp. 1875-1880. [*EI*]
+- **C. Wang**, J. Wang, Y. Morton, Regional ionospheric TEC gradients estimation using a single GNSS receiver, China Satellite Navigation Conference (CSNC) 2014 Proceedings: Volume II Lecture Notes in Electrical Engineering Volume 304, 2014, pp 363-373 [*EI:20143218045261*]
+- **Wang, C.**, Morton, Y., "Ionosphere TEC and TEC Gradients Estimation Using a Regional GNSS Network," Proceedings of the 26th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2013), Nashville, TN, September 2013, pp. 1875-1880. [*EI:20141817638589*]
 - **C. Wang**, J. Wang, Cycle slip detection of single-frequency phase observations using comentropy estimation, China Satellite Navigation Conference, S03:59-63, 2013
 - **C. Wang**, Cycle slip detection of single-frequency un-differenced phase observation based on moving windows test, Academic Forum for Chinese Doctoral Candidates (Surveying and Mapping), 49-52, 2011
 
