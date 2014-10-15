@@ -103,4 +103,4 @@ Global Ionospheric Model and Service Platform: [@Youku](http://v.youku.com/v_sho
 - 2011 China Satellite Navigation Conference, Shanghai, May 18~20, 2011
 - Training on Application and Development of CORS (Continuously Operating Reference Station), GNSS Research Center of Wuhan University, Dec., 2010
 
-*last modified@2014-10-10*
+*last modified@2014-10-15*
