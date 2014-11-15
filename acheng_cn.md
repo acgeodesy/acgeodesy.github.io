@@ -28,7 +28,7 @@ title: 阿成
 
 我从2003年开始学习HTML和网页设计。我对IT技术有着浓厚的兴趣，并在大学期间制作了多个版本的个人主页，还曾经设计过卡通人物qoqo以及概念音乐播放器和鼠标等。另外，还开发过音乐试听网站、个人博客程序、在线旅游预订网站等。我从2007年开始学习和使用Linux。我用的第一个Linux发行版本是Fedora 7。后来我在2010年彻底爱上了Ubuntu。但我不认为Ubuntu的Unity适合做Linux桌面。而Gnome 3对于我来说用户体验相当糟糕。最终我选择了MATE作为我日常使用的Linux桌面。同时，我觉得Linux Mint、Elementary OS也是不错的Linux发行版本。
 
-我从2007年开始学习C++，直到目前为止我写了超过30,000行C++代码。在我读博期间，我编写了区域电离层建模、单频单点精密定位、全球电离层模型自动化数据处理系统与服务平台（IRIS）、精密单点定位在线解算（SmartPPP）等。其中IRIS能够实现全球GNSS观测数据下载、数据预处理、数据处理、电离层产品发布、电离层总电子含量图形可视化、系统运行状态实时推送、服务平台网站更新、Twitter和微博的信息发送、微信查询等功能。系统部署在云端，所有功能完全是自动化的，不需要任何人为操作。
+我从2007年开始学习C++，直到目前为止我写了超过30,000行C++代码。读博期间，我编写了区域电离层建模、单频单点精密定位、全球电离层模型自动化数据处理系统与服务平台（IRIS）、精密单点定位在线解算（SmartPPP）等。其中IRIS能够实现全球GNSS观测数据下载、数据预处理、数据处理、电离层产品发布、电离层总电子含量图形可视化、系统运行状态实时推送、服务平台网站更新、Twitter和微博的信息发送、微信查询等功能。系统部署在云端，所有功能完全是自动化的，不需要任何人为操作。
 
 ## 开源代码
 GLONASS卫星频道服务: <https://github.com/acgeodesy/glo.git>
@@ -88,16 +88,16 @@ GLONASS卫星频道服务: <https://github.com/acgeodesy/glo.git>
 - **王成**. 基于移动开窗检验的单频非差相位观测值周跳探测方法[J]. 2011年全国博士生学术论坛（测绘科学与技术）论文集，2011.12, 1/49-52
 
 ## 学术交流
-- 2014年5月21-23日，第五届中国卫星导航学术年会（南京，口头报告）
-- 2014年5月10-11日，2014年全国博士生学术论坛（测绘科学与技术）（成都，口头报告）
+- 2014年5月21-23日，第五届中国卫星导航学术年会（南京，**口头报告**）
+- 2014年5月10-11日，2014年全国博士生学术论坛（测绘科学与技术）（成都，**口头报告**）
 - 2013 ION Global Navigation Satellite Systems Conference, Nashville, Tennessee, **Oral Presentation**, Sep. 16~20, 2013
 - Incoherent Scatter Radar Summer School, MIT Haystack Observatory, Westford, Massachusetts, Jul. 29~Aug. 2, 2013
 - Coupling, Energetics and Dynamics of Atomospheric Regions Workshop, Boulder, Colorado, **Poster Presentation**, Jun. 22~28, 2013
 - Short Courses, Consortium of Ohio Universities on Navigation and Timekeeping, Dayton, Ohio, May 29~31, 2013
 - Seventh Annual Information Meeting, Consortium of Ohio Universities on Navigation and Timekeeping, Columbus, Ohio, **Poster Presentation**, Apr. 9~10, 2013
 - 2012年05月15-19日，第三届中国卫星导航学术年会（广州）
-- 2011年12月03-05日，2011年全国博士生学术论坛（测绘科学与技术）（郑州，口头报告）
-- 2011年10月26-28日，第十四界全国日地空间物理学术讨论会（重庆，张贴报告）
+- 2011年12月03-05日，2011年全国博士生学术论坛（测绘科学与技术）（郑州，**口头报告**）
+- 2011年10月26-28日，第十四界全国日地空间物理学术讨论会（重庆，**张贴报告**）
 - 2011年08月22-25日，华东师范大学空间大地测量后处理软件QOCA学习班
 - 2011年05月18-20日，第二届中国卫星导航学术年会（上海）
 - 2010年12月，武汉大学卫星导航定位技术研究中心《连续运行参考站网的应用与发展》培训会
