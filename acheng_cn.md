@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: 阿成
 ---
 ##{{ page.title }}
@@ -14,7 +14,7 @@ title: 阿成
 ## 教育经历
 2010.09-2014.11，同济大学，大地测量学与测量工程，博士研究生，导师：王解先 教授
 
-2012.10-2014.01，迈阿密大学，联合培养博士研究生，导师：Professor Yu (Jade) Morton [@Miami University](http://www.users.muohio.edu/mortonyt) [@Colorado State University](http://gpslab.colostate.edu)
+2012.10-2014.01，迈阿密大学，联合培养博士研究生，导师：Professor Yu (Jade) Morton [@MU](http://www.users.muohio.edu/mortonyt) [@CSU](http://gpslab.colostate.edu)
 
 2007.09-2010.07，长安大学，大地测量学与测量工程，硕士，导师：杨建华 副教授
 
