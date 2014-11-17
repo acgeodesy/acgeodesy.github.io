@@ -10,7 +10,9 @@ title: Acheng's Blog
 </div>
 <h3>友情链接</h3>
 <div id="link">
+	<ul>
 	{% for item in site.data.link %}
-	<a href="{{ item.url }}" title="{{ item.desc }}" target="new">{{ item.name }}</a>
+	<li><a href="{{ item.url }}" title="{{ item.desc }}" target="new">{{ item.name }}</a>---{{ item.desc }}</li>
 	{% endfor %}
+	</ul>
 </div>
