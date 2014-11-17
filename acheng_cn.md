@@ -37,7 +37,7 @@ GLONASS卫星频道服务: <https://github.com/acgeodesy/glo.git>
 **王成**，王解先，段兵兵，连丽珍. 一种基于位置信息的电离层TEC主动式播发方法和系统 [已受理，专利申请号：201310488613.X，公开号：103558607A]
 
 ## 网络服务
-- 在线GNSS相关时间转换: <http://geodesy.cn/doy>
+- GNSS相关时间在线转换: <http://geodesy.cn/doy>
 - 电离层TEC播发平台: <http://iris.geodesy.cn/index.html>
 - GLONASS卫星频道服务: <http://geodesy.cn/glonass/index.xml>
 - 全球电离层模型及其服务平台: <http://geodesy.cn/ionosphere>

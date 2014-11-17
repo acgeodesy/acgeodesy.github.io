@@ -1,0 +1,10 @@
+- name: GNSS相关时间在线转换
+  url: http://geodesy.cn/doy
+- name: 电离层TEC播发平台
+  url: http://iris.geodesy.cn/index.html
+- name: GLONASS卫星频道服务
+  url: http://geodesy.cn/glonass/index.xml
+- name: 全球电离层模型及其服务平台
+  url: http://geodesy.cn/ionosphere
+- name: 精密单点定位在线解算
+  url: http://ppp.geodesy.cn

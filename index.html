@@ -10,6 +10,14 @@ title: Acheng's Blog
 	{% endfor %}
 	</ul>
 </div>
+<h3>在线服务</h3>
+<div id="service">
+	<ul>
+	{% for item in site.data.service %}
+	<li>{{ item.name }}:<a href="{{ item.url }}" title="{{ item.name }}" target="new">{{ item.url }}</a></li>
+	{% endfor %}
+	</ul>
+</div>
 <h3>友情链接</h3>
 <div id="link">
 	<ul>
