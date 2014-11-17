@@ -4,9 +4,11 @@ title: Acheng's Blog
 ---
 <h3>文章列表</h3>
 <div id="post">
+	<ul>
 	{% for post in site.posts %}
-	<p><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> <span class="post_date">{{ post.date | date_to_string }}</span></p>
+	<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> <span class="post_date">{{ post.date | date_to_string }}</span></li>
 	{% endfor %}
+	</ul>
 </div>
 <h3>友情链接</h3>
 <div id="link">
