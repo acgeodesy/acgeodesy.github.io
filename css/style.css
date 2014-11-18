@@ -13,7 +13,7 @@
 /*********************************************************************************/
 a{color:#03b;text-decoration: none;}	
 a:hover{color:#c30;}
-img{max-width:100%;}
+#main p img{width:100%;}
 #msg{margin:30px auto;}
 .ds-powered-by,.ds-dialog-footer{display:none;}
 .ds-textarea-wrapper textarea{height:120px!important;font-size:18px!important;}
