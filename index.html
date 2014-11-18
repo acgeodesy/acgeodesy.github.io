@@ -33,6 +33,7 @@ layout: none
 						<a href="#blog" class="icon fa-file-text-o"><span>Blog</span></a>
 						<a href="#profile" class="icon fa-user"><span>About</span></a>
 						<a href="#contact" class="icon fa-envelope"><span>Contact</span></a>
+						<a href="#link" class="icon fa-external-link"><span>Links</span></a>
 					</nav>
 
 				<!-- Main -->
@@ -177,7 +178,17 @@ layout: none
 									</script>
 								</div>
 							</article>
-
+						<!-- Link -->
+							<article id="link" class="panel">
+								<header>
+									<h2>Links</h2>
+								</header>
+								<ul>
+								{% for item in site.data.link %}
+								<li><a href="{{ item.url }}" title="{{ item.desc }}" target="new">{{ item.name }}</a>---{{ item.desc }}</li>
+								{% endfor %}
+								</ul>							
+							</article>
 					</div>
 		
 				<!-- Footer -->
